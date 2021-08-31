@@ -1,0 +1,89 @@
+What's your first name?,What year in college do you consider yourself (ex: Senior)?,What major do you consider yourself (ex: CS+STAT)?,Cell Phone: Android or iOS?,Tabs or Spaces?,Favorite Code Editor?,Favorite Programming Language?,Favorite Candy?,Favorite IDE Theme (ex: dark/light),Spirit Animal?,Ideal Hours of Sleep /night?,Shoe Size?,How many siblings?,Favorite Food?,Favorite Color?,Marvel or DC?,Instrument you play (if any)?,The Dress: https://en.wikipedia.org/wiki/The_dress#/media/File:The_Dress_(viral_phenomenon).png,How many credit hours are you in this semester?,"Excluding CS 225 and CS 296, favorite course at UIUC so far?  (This semester or a previous semester.)",Eating Out: # of meals out /week?,Height (in),"Windows, Mac, or Linux?"
+Wade,Old,CS,Android,Spaces,VS Code,JavaScript,M&M’s,Dark,Fox,8,13.5,2,BBQ,Purple,Either,Recorder,Yellow and Gold,,STAT 107,1,76,Windows
+Aashna,Sophomore,Computer Engineering,iOS,Tabs,Atom,C++,Royce Matcha,Dark,Pigeon,8,8,1,Pizza,Purple,Marval,None,Blue and Black,14,ECE 220,3,66,Mac
+Abdullah,Freshman,CS + MATH,iOS,Tabs,Sublime Text,C++,,Dark,Squirrel,6,8.5,2,,Black,Neither,,Blue and Black,12,MATH 347,3,70,Linux
+Aganze,Sophomore,DGS,Android,Both,VS Code,C#,Skittles,Light,Cat,7,10.5,3,Taco,Gray,Marval,Paino,Blue and Black,17,MATH 415,2,,Windows
+AJ,Sophomore,CS,iOS,Tabs,Sublime Text,Python,Gum,Dark,Dragon,8,10.5,3,Fried Rice,Black,DC,Piano,Yellow and Gold,12,,2,70,Mac
+AJ,Sophomore,CS + Stats,iOS,Tabs,Atom,Java,Milky Way,Dark,Wolf,8.5,8.5,1,Burritos,Black,Marval,Piano,Yellow and Gold,18,STAT 400,0,68,Windows
+Ajay,Freshman,,BeOS,Both,Emacs,MIPS,Snickers,Light,Peregrine falcon,12,9,1,Onion,Orange,Marval,None,Yellow and Gold,17,CS 125,1,66,macOS
+Akarsh,Sophomore,CS + STAT,Android,Tabs,Sublime Text,C,Lindt,Dark,Lion,7,11,1,Ramen,Indigo,DC,Piano,Blue and Black,14,CS 361,1,72,Windows and Linux
+Albert,Sophomore,Electrical Engineering,Android,Tabs,Atom,Python,Chocolate,Dark,Rabbit,7,9,1,Donut,Blue,Marval,Clarinet,Yellow and Gold,15,PHYS 212,14,65,Windows
+Alok,Freshman,CS,Android,Spaces,VS Code,Python,Milky Way,Light,Spider Monkey,8,9,2,Apple Pie,Orange,Marval,Piano,Blue and Black,18,CS 357,0,68,Windows
+Ananya,,CS,Android,Tabs,gedit,C++,Chocolate,Dark,Animal from the Muppets,8,8,1,Melons,Blue,Both,Violin,Blue and Black,16,CS 173,0,65,Linux
+Andrew,Sophomore,Computer Engineering,iOS,Tabs,Atom,C++,Twix,Light,Dog,7.5,9.5,1,Steak,Black,DC,Piano,Yellow and Gold,14,ECE 385,8,72,Windows
+Asher,Freshman,CS,iOS,Spaces,VS Code,JavaScript,Jolly Rancher,Dark,Monkey,8,11,2,Tofu,Blue,DC,,Yellow and Gold,16,CS 233,1,72,Mac
+Atharva,Sophomore,CS,Android,Tabs,VS Code,Python,,Light,,6,11,1,,,Neither,None,Blue and Black,16,LING 406,0,72,POSIX
+Austin,Senior,ECE,Android,Spaces,VS Code,Python,Chocolate,Dark,Cheetah,8,10,0,Cream Soup,Blue,DC,Violin,Blue and Black,12,ECE 498,4,66,Windows
+Avinash,Sophomore,Computer Engineering,Android,Tabs,vim,Java,Chocolate,Dark,Rat,7,10,2,Paneer Butter Masala,Red,Marval,Violin,Blue and Black,16,ECE 210,0.5,70,Mac >= Linux > Windows
+Avinda,Sophomore,CS,iOS,Tabs,XCode,Python,Twix,Dark,Lion,9,10.5,1,Tacos,Red,Marval,Piano,Blue and Black,16,CS 126,5,69,Mac
+Bing,Junior,Psychology,iOS,Tabs,,Python,Sour Patch,Light,Giraffe,6,5,0,French Fries,Blue,Marval,Piano,Yellow and Gold,25,STAT 100,3,60,Mac
+Brian,Freshman,CS,iOS,Tabs,Atom,C++,,Dark,Bear,9,9,1,,Blue,Neither,Percussion,Blue and Black,19,MATH 415,0,66,Mac
+Catherine,Freshman,CS + STAT,iOS,Tabs,VS Code,C++,KitKat,Light,Wolf,8,7,1,Pho,Blue,Marval,Saxophone,Blue and Black,17,French 213,0,64,Windows
+Charan,Freshman,CS + STAT,iOS,Spaces,Atom,C++,Ferrero Rocher,Dark,Dog,8,12,1,Cheesecake,Blue,Marval,None,Yellow and Gold,15,MCB 150,4,72,Mac
+Cheng,Graduate,Information Science,iOS,Tabs,VS Code,Go,Mint,Dark,Horse,8,8,0,Buffalo Wings,Blue,Marval,None,Blue and Black,12,CS425,18,67,Mac
+Chris,Junior,CS + MATH,iOS,Spaces,Atom,C++,Chocolate,Dark,Phoenix,7,9,0,Ramen,White,Marval,Piano,Yellow and Gold,15,CS 440,2,69,Linux
+Christian,Sophomore,Computer Engineering,iOS,Tabs,Atom,JavaScript,,Dark,Panda,7,10.5,2,Rice,Black,DC,None,Blue and Black,16,ANTH 180,6,69,Windows
+Christine,Sophomore,Computer Engineering,iOS,Tabs,vim,C++,M&M’s,Dark,Polar Bear,5,7.5,3,Ice cream,Black,Marval,"Piano, Jazz Drums",Blue and Black,16,ECE120,3,64,Mac
+Daksh,Sophomore,Computer Engineering,iOS,Tabs,vim,C++,Smarties,Dark,Unicorn,5,11,0,Dal Makhani,Blue,Marval,Piano,Blue and Black,18,ECE 448,4,73,Linux
+David,Freshman,Industrial Engineering,iOS,Tabs,Atom,Python,Reese's,Dark,Goose,6,10,2,Cheese Fries,Red,Marval,Recorder,Blue and Black,12,IE 300,5,70,Mac
+David,Sophomore,CS,iOS,Spaces,vim,C++,Gummy Snacks,Dark,Mooshroom,9,10,3,Lasagna,Green,Marval,,Blue and Black,17,CMN 280,1,69,Windows
+David,Sophomore,CS + STAT,Android,Tabs,VS Code,Python,Sour Patch,Light,Kangaroo,8,10,2,Pasta and Chicken,Red,Marval,Piano,Blue and Black,12,STAT 200,0,69,Mac
+Derek,Freshman,CS + MATH,iOS,Spaces,VS Code,Python,Kit Kat,Light,Otter,9,10,1,Ramen,White,Marval,Drums,Blue and Black,16,CS 233,3,69,Mac
+Derrick,Sophomore,Mechanical Engineering,iOS,Tabs,Atom,C++,Airheads,Dark,Cat,8,10,2,Sushi,Green,Marval,,Blue and Black,18,ME 270,3,68,Mac
+Dev,Sophomore,CS,Android,Tabs turning into spaces,VS Code,JavaScript,Sour Patch,Light,Dolphin,8,10,1,Pasta,Red,Marval,Percussion,Blue and Black,18,SHS 222,1.5,69,Windows
+Dingyu,Senior,Mechanical Engineering,Android,Tabs,Atom,Python,Kit Kat,Dark,Cat,10,9.5,0,Coffee,Gray,Neither,None,Blue and Black,11.5,ME498,8,68,Mac
+Dipro,Sophomore,CS,iOS,Tabs,Atom,Python,Chocolate,Light,Panda,8,12,0,Sub,Blue,Marval,,Blue and Black,16,CS 233,3,66,Mac
+Divey,Sophomore,CS,Android,Tabs,VS Code,Java,Crunch Bar,Dark,Sloth,6,9.5,1,Curry,Green,Marval,Keyboard,Blue and Black,17,ENGL 109,1,74,Windows
+Eric,Freshman,CS + Chem,Android,Tabs,VS Code,C++,Swedish Fish,Dark,Bird,8,10,1,Ramen,Blue,Marval,None,Blue and Black,16,CS 126,2,68,Mac
+Erik,Junior,Mathematics,Android,Tabs,Emacs,Python,White Chocolate,Dark,Owl,5,9.5,1,Molé,Purple,Marval,Guitar,Yellow and Gold,17,CS 446,4,68,Mac
+Ethan,Freshman,CS,iOS,Spaces,Sublime Text,C++,Reese's,Dark,Dog,8,7.5,1,Shrimp,Blue,Marval,French Horn,Blue and Black,15,CS 233,5,66,Mac
+Ethan,Sophomore,Computer Engineering,iOS,Tabs,Atom,Swift,Kit Kat,Light,Human,6,11.5,1,Duck,White,DC,None,Blue and Black,15,ECE 220,5,68,Mac
+Eunice,Freshman,CS,Android,Tabs,Sublime Text,PHP,Meiji,Dark,Dragon,8,6.5,1,Ramen,Blue,Marval,Piano,Yellow and Gold,15,CS 233,1,62,windows
+Garv,Freshman,CS,Android,Tabs,VS Code,C++,Crunch Bar,Dark,Tiger,9,9,1,Ribs,Blue,Marval,Tabla,Blue and Black,18,MATH 416,3,66,Mac
+Gus,Sophomore,Computer Engineering,iOS,Tabs,Atom,C,Reese's,Dark,Giraffe,5.5,12,1,Seafood,Blue,Marval,Saxophone,Yellow and Gold,14,MATH 416,1,76,Windows/Ubuntu
+Hamilton,Sophomore,Computer Engineering,Android,Tabs,Sublime Text,Haskell,Milky Way,Dark,Giraffe,7,10,2,Calamari,Purple,Marval,Trombone,Blue and Black,18,ECE 408,1,74,Windows
+Hanzhi,,CS + Music,iOS,Tabs,Atom,Java,Kit Kat,Dark,Cat,7,8.5,0,Vegetables,Blue,Neither,Piano,Blue and Black,17,MUS 180,10,70,Mac
+Heesoo,Freshman,CS,Android,Spaces,vim,C++,Reese's,Dark,Armadillo,8,12,0,Pho,Black,Marval,Violin,Blue and Black,15,,4,73,Mac
+Ishaan,Freshman,CS,iOS,Tabs,Atom,C++,Airheads,Dark,Whale,8,11,1,Cheesecake,Blue,Marval,Guitar,Blue and Black,19,MATH 415,4,70,Mac
+Jack,Freshman,CS + STAT,iOS,Spaces,RStudio,R,Kit Kat,Light,Penguin,8,11.5,2,Gnocchi,Blue,Marval,Piano,Blue and Black,18,STAT 200,4,70,Mac
+Jacob,Junior,CS + Linguistics,Android,Tabs,VS Code,Java,Russel Stover Turtles,Light,Blobfish,7,10.5,2,Macaroni and Cheese,Purple,DC,None,Blue and Black,14,LING 490,3,73,Windows
+Jason,Freshman,Computer Engineering,iOS,Spaces,Atom,Python,Skittles,Dark,Dragon,8,9,1,Hotpot,Green,Marval,Guitar,Blue and Black,17,MATH 241,5,69,Mac
+Jiangran,Junior,Electrical Engineering,iOS,Tabs,Sublime Text,C++,Chocolate,Dark,Cat,8,9.5,3,Noodles,Blue,Marval,Piano,Yellow and Gold,18,ECE 310,10,70,mac
+Joe,Freshman,CS,Android,Spaces,Sublime Text,Python,Sour Patch,Dark,Wolf,5,11,0,Sushi,Red,DC,None,Yellow and Gold,18,PHYS 325,0.3,73,ChromeOS/Linux
+Jordan,Junior,MATH,iOS,Tabs,vim,C++,Swedish Fish,Dark,Rat,6,9.5,3,Bread,Green,Neither,N/A,Blue and Black,17,CS 398,6,72,Mac
+Justin,Sophomore,DGS,iOS,Tabs,Atom,C++,Fruit,Dark,,8.5,11.5,3,Sichuan fish stew,Blue,,,Blue and Black,15,,0,69,Windows
+Kajetan,Freshman,CS + STAT,iOS,Tabs,Atom,Python,Junior Mints,Dark,Goat,9,14,1,Cheesecake,Red,Marval,Piano,Blue and Black,15,PHIL 316,4,76,Mac
+Kevin,Sophomore,CS + Crop Sciences,iOS,Tabs,Atom,C++,Chocolate,Dark,Cat,24,8,0,,Blue,Marval,Piano,Yellow and Gold,23,ACE 360,2,68,Mac
+Martin,Sophomore,Electrical Engineering,Android,Tabs,VS Code,Python,,Dark,Tiger,8,9.5,0,Anything,Purple,Marval,Saxophone,,16,ECE 342,3,66,Mac
+Matt,Senior,Mechanical Engineering,iOS,Tabs,gedit,Python,,Light,Eagle,9,11,2,Sushi,Red,DC,Saxophone,Blue and Black,15,CS 450,5,73,Mac
+Matthew,Freshman,CS,Android,Spaces,VS Code,JavaScript,Twix,Dark,,7,10.5,6,Steak,Blue,Marval,,Blue and Black,15,CS126,5,71,Mac
+Matthew,Freshman,CS + STAT,Android,Spaces,Sublime Text,C++,Kit Kat,Light,Turtle,8,9,1,Rice,Blue,Marval,Piano,Yellow and Gold,15,CS 126,0,69,Windows
+Matthew,Sophomore,MATH,iOS,Tabs,Atom,Python,Twix,Dark,Cat,9,10.5,2,Pizza,Orange,Marval,Trumpet,Yellow and Gold,15,CS 125,7,71,Mac
+Michael,Sophomore,Computer Engineering,iOS,Tabs,VS Code,C++,Kit Kat,Dark,Cat,8.5,8.5,1,Bread,Black,Marval,Violin,Yellow and Gold,14,MATH 286,4,69,Windows
+Mingjie,Freshman,CS + MATH,Android,Tabs,VS Code,C++,Dark Chocolate,Dark,Crocodile ,10,8.5,0,Pizza,Blue,Marval,None,Yellow and Gold,18,CS 125,5,70,Windows
+Muhammed,Freshman,CS,iOS,Tabs,VS Code,Java,Twix,Dark,Squirrel,7,10,3,Chicken Teriyaki,Blue,Marval,None,Blue and Black,15,MATH 285,0,70,Windows
+Nathaniel,Freshman,CS,Android,Tabs,VS Code,Python,Reese's,Dark,Dog,7,11,1,Sushi,Purple,Marval,,Blue and Black,16,CS 126,2,72,Windows
+Pavitra,Sophomore,Computer Engineering,Android,Tabs,Atom,Python,,Dark,Lion,,9.5,1,Chole Bhature,Red,Marval,Keyboard,Blue and Black,15,ECE 220 Honors,1,67,Mac
+Peter,Freshman,CS + STAT,iOS,Tabs,VS Code,C++,Jolly Rancher,Light,Hair,9,11,0,Thai food,Green,Marval,None,Blue and Black,16,CS 126,3,72,Mac
+Pradyumna,Sophomore,CS,Android,Spaces,VS Code,Python,Bubble Tea Soft Serve,Dark,Tux,9.5,13,0,Noodles,Green,Marval,Piano,Yellow and Gold,16,CS 461,5,77,Linux
+Quentin,Junior,Psychology,iOS,Tabs,Atom,C++,Jawbreaker,Dark,Wildcat,10,8.5,0,,Black,,,Blue and Black,18,CW 104,,68,Windows
+Rolando,Junior,CS,iOS,Tabs,Atom,Python,Gummy Snacks,Dark,Llama,7,11,1,Pasta,Black,Marval,Guitar,Yellow and Gold,15,CS 361,2,69,Windows
+Roshini,Sophomore,Computer Engineering,Android,Tabs,VS Code,C,Chocolate,Dark,Crab,7.5,11.5,1,,Blue,Either,Violin,Blue and Black,18,ECE 391,0,69,Windows
+Ryan,Freshman,CS,iOS,Tabs,vim,Python,,Dark,Dolphin,8,9.5,3,,Red,,Guitar,Blue and Black,18,,1,69,Linux
+Samantha,Junior,MATH,Android,Tabs,Atom,C++,Kit Kat,Dark,Deer,12,8,1,Pho,Violet,Marval,Used to play viola,Blue and Black,14,IB 108,4,66,Windows
+Samuel,Sophomore,CS,iOS,Tabs,VS Code,C++,Pocky,Dark,Dog,7,10.5,2,Pizza,Blue,Marval,None,Blue and Black,18,CS 126,2,72,Windows
+Sandhya,Sophomore,Physics,iOS,Tabs,Atom,Java,Starburst,Light,Cat,13,8.5,1,Potatoes,Red,Marval,Piano,Yellow and Gold,18,ASTR 210 ,2,68,mac
+Sumuk,Freshman,Computer Engineering,Android,Tabs,IntelliJ,Python,Bounty,Dark,Elephant,5,9.5,2,Noodles,Green,Marval,Drums,Blue and Black,19,CS 196,0,67,Windows
+Suzy,Sophomore,Computer Engineering,iOS,Spaces,VS Code,C#,Sour Patch,Dark,Turtle,8,6,2,Sushi,Yellow,Marval,Piano,Yellow and Gold,16,CMN 230,4,63,Windows
+Swaathi,Sophomore,CS + Linguistics,iOS,Tabs,Atom,Java,Kit Kat,Dark,Dog,6,9,1,Boba,Green,Marval,,Yellow and Gold,18,THEA 101,3,64,Mac
+Swetank,Sophomore,Computer Engineering,iOS,Tabs,Sublime Text,Python,Kit Kat,Dark,,8.5,10,1,Salmon curry,Orange,Either,Piano,Blue and Black,13,CS 357,10,69,Windows
+Trevor,Freshman,CS + STAT,iOS,Tabs,Sublime Text,Python,Sour Patch,Dark,Fox,9,11,4,Pizza,Blue,Marval,None,Yellow and Gold,15,ECE 498,2,71,Windows
+Vijay,Sophomore,CS + Astro,iOS,Tabs,JetBrains Suite,C,Nerds,Dark,Penguin,8,10.5,0,Butter Chicken,Blue,Marval,,Yellow and Gold,14,STAT 200,3,71,Mac
+Walter,Junior,Economics,iOS,Tabs,Atom,Python,Nerds,Dark,Lion,5,10,2,Chicken,Black,Marval,Trombone,Blue and Black,18,MATH 231,2,70,Windows
+Woojin,Junior,Systems Engineering,Android,Tabs,Atom,C++,,Dark,Cat,9,8.5,1,Chicken,Black,Marval,,Yellow and Gold,15,SE 320,1,68,Windonws
+Xuanyang,Graduate,STAT,iOS,Tabs,Sublime Text,C++,M&M’s,Dark,,8,42,,,,,,Blue and Black,16,,,,Windows
+Yingying,Graduate,STAT,iOS,Spaces,RStudio,R,Raffaello,Dark,Dog,,5.5,1,Hotpot,Green,Marval,,Blue and Black,13,STAT 575,1,63,Mac
+Yue,Sophomore,Computer Engineering,Android,Tabs,,HTML,,Light,,3,11,0,Ramen,Magenta,DC,None,Yellow and Gold,16,ECE385,7,73,Windows 10
+Zaki,Sophomore,Computer Engineering,iOS,Tabs,Sublime Text,C++,Twix,Dark,Cat,9,10.5,1,Pizza,Blue,Marval,,Blue and Black,16,ECE 220,5,69,Windows
+Zhengguan,Sophomore,Aerospace,iOS,Tabs,Atom,Python,Hi-chew,Dark,Crow,8,43,0,Chinese Food,Blue,Marval,Harmonica,Blue and Black,15,AE199,10,72,Max
+Ziyang,Sophomore,MATH,iOS,Tabs,Atom,Python,,Dark,Cat,9,6.5,1,Soup,Blue,Marval,Piano,Blue and Black,21,CS 357,14,64,Linux
